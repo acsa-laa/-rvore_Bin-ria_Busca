@@ -1,0 +1,5 @@
+Para a compilação e execução do programa é necessário possuir o g++ instalado, em seguida entrar pelo terminal na pasta em que se encontra os arquivos referentes ao programa e digitar as seguintes linhas de comando:
+-compilação:
+    g++ abb.cpp abb.h main.cpp -o abb
+-execução:
+    ./abb <arquivo1(contém uma descrição da ABB)> <arquivo2(contém uma sequência de operações)>
